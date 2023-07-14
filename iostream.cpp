@@ -20,5 +20,7 @@ int main()
         std::cout << i << std::endl;
     }
     std::cout << "process complete" << std::endl;
+
+    int j = 1;
     return 0;
 }
