@@ -21,5 +21,4 @@ int main()
     }
     std::cout << "process complete" << std::endl;
     return 0;
-    int j = 0;
 }
